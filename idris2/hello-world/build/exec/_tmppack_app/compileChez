@@ -1,1 +1,0 @@
-(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/home/qak/prooove/idris2/hello-world/build/exec/_tmppack_app/_tmppack.ss"))

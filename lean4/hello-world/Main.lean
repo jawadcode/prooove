@@ -6,3 +6,4 @@ def main : IO Unit := do
 
 example (p q : Prop) : ((p → q) ∧ p) → q :=
   λ⟨p_to_q, p⟩ => p_to_q p
+
